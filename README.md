@@ -1,5 +1,5 @@
 list databases
-	 GET /database
+	    GET /database
 
 drop database
 	 DELETE /database?dbname=foo
